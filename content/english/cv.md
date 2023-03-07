@@ -5,14 +5,14 @@ author: "Marlena Müller"
 
 ## Education
 
-* High School Diploma, specialication in Mathemtics and Computer Science, 2021
+* Abitur (equivalent to A level), specialication in Mathemtics and Computer Science, 2021
 * Paderborn University, Computer Science, 2021-today (expected graduation 2025)
 * Paderborn University, Mathematics, 2023-today
 
 ## Work experience
 
 * 2022-2023: Student Assistant for "Programming" tutorials at the Paderborn University
-* 2023: Student Assistant for "Data structures and algorithm" tutorials at the Paderborn University
+* 2023: Student Assistant for "Data structures and algorithms" tutorials at the Paderborn University
 
 ## Skills
 
