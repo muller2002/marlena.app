@@ -4,10 +4,10 @@ aliases: ["about-us", "about-hugo", "contact"]
 author: "Marlena Müller"
 ---
 
-Hi there, my name is Marlena (she/her), and I am a female CS-student who is currently in the process of graduating from the Paderborn University. Alongside my studies, I am actively involved in the student council, where I get to work with other students to improve the academic and social experiences of our fellow peers.
+Hallo, mein Name ist Marlena (sie/er), und ich bin eine Informatik-Studentin, die gerade an der Universität Paderborn studiert. Neben meinem Studium engagiere ich mich aktiv in der Fachschaft, wo ich mit anderen Studenten zusammenarbeite, um die akademischen und sozialen Erfahrungen meiner Kommilitonen zu verbessern.
 
-One of my greatest passions in the field of computer science is theoretical computer science. I find it incredibly fascinating to explore the mathematical foundations and theoretical principles that underpin computer science, and I love learning about the latest advancements and breakthroughs in this area.
+Eine meiner größten Leidenschaften im Bereich der Informatik ist die theoretische Informatik. Ich finde es unglaublich faszinierend, die mathematischen Grundlagen und theoretischen Prinzipien zu erforschen, die der Informatik zugrunde liegen, und ich liebe es, etwas über die neuesten Fortschritte und Durchbrüche in diesem Bereich zu erfahren.
 
-In addition to my academic pursuits, I am also proud to be a member of the transgender community. Being trans has taught me a lot about self-discovery, resilience, and the power of authenticity. It has also given me a unique perspective on the world, which I believe makes me a better computer scientist, thinker, and problem solver.
+Zusätzlich zu meinen akademischen Aktivitäten bin ich auch stolz darauf, ein Mitglied der Transgender-Gemeinschaft zu sein. Als trans Person habe ich viel über Selbstfindung, Widerstandsfähigkeit und die Kraft der Authentizität gelernt. Es hat mir auch eine einzigartige Perspektive auf die Welt gegeben, die mich meiner Meinung nach zu einer besseren Informatikerin, Denkerin und Problemlöserin macht.
 
-Overall, I am a curious, ambitious, and open-minded individual who is passionate about making a positive impact in the world through my work in computer science. I am excited to see where my journey takes me, and I am grateful for the opportunity to share a little bit about myself with you.
+Insgesamt bin ich ein neugieriger, ehrgeiziger und aufgeschlossener Mensch, der durch seine Arbeit in der Informatik einen positiven Einfluss auf die Welt ausüben möchte. Ich freue mich darauf, zu sehen, wohin mich meine Reise führt, und bin dankbar für die Gelegenheit, dir ein wenig von mir zu erzählen.

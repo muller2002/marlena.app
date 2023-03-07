@@ -3,26 +3,26 @@ title: "Lebenslauf"
 author: "Marlena Müller"
 ---
 
-## Education
+## Ausbildung
 
-* High School Diploma, specialication in Mathemtics and Computer Science, 2021
-* Paderborn University, Computer Science, 2021-today (expected graduation 2025)
-* Paderborn University, Mathematics, 2023-today
+* Abitur, Leistungskurse Mathematik und Informatik, 2021
+* Universität Paderborn, Informatik, 2021-heute (voraussichtlicher Abschluss 2025)
+* Universität Paderborn, Mathematik, 2023-heute
 
-## Work experience
+## Berufserfahrung
 
-* 2022-2023: Student Assistant for "Programming" tutorials at the Paderborn University
-* 2023: Student Assistant for "Data structures and algorithm" tutorials at the Paderborn University
+* 2022-2023: Studentische Hilfskraft für Programmierungs Tutoriern an der Universität Paderborn
+* 2023: Studentische Hilfskraft für die Datenstrukturen und Algorithmen Tutoriern an der Universität Paderborn
 
-## Skills
+## Kenntnisse
 
-* Java, Python and C Programming
-* advanced LaTeX text setting
-* Linux (Debian, Ubuntu) and Bash scripting
-* GitLab CI and Github Actions
-* Fundamental knowledge of Hosting and Server administration
+* Java-, Python- und C-Programmierung
+* Fortgeschrittene LaTeX-Textsetzung
+* Linux (Debian, Ubuntu) und Bash-Skripting
+* GitLab CI und Github-Actions
+* Grundlegende Kenntnisse in Hosting und Serveradministration
   
-## Voluntary activities
+## Ehrenamtliche Tätigkeiten
 
-* Active member of the Paderborn University's student council for computer science and mathematics
-* Active member of german civil protection
+* Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
+* Aktives Mitglied im Deutschen Katastrophenschutz

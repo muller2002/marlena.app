@@ -3,4 +3,4 @@ title: "Home"
 description: "Home"
 ---
 
-I am a female CS-student who is passionate about theoretical computer science and actively involved in the student council at the Paderborn University. I am also proud to be a member of the transgender community, which has given me a unique perspective on the world and made me a better thinker and problem solver. If you want to know more about me, you can read my [CV](/cv/) or [about me](/about/) page.
+Ich bin eine Informatik-Studentin, die sich leidenschaftlich für theoretische Informatik interessiert und sich aktiv in der Fachschaft an der Universität Paderborn engagiert. Ich bin auch stolz darauf, ein Mitglied der Transgender-Community zu sein, was mir eine einzigartige Perspektive auf die Welt gegeben hat und mich zu einem besseren Denker und Problemlöser gemacht hat. Wenn Sie mehr über mich wissen möchten, können Sie meinen [Lebenslauf](/de/cv/) oder meine [Über mich](/de/about/) Seite lesen.
