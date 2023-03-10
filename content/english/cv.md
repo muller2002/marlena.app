@@ -11,6 +11,7 @@ author: "Marlena Müller"
 
 ## Work experience
 
+* since 2021: Working student in the field of IT support and IT administration in a medical office
 * 2022-2023: Student Assistant for "Programming" tutorials at the Paderborn University
 * 2023: Student Assistant for "Data structures and algorithms" tutorials at the Paderborn University
 

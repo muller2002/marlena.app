@@ -11,6 +11,7 @@ author: "Marlena Müller"
 
 ## Berufserfahrung
 
+* seit 2021: Werksstudentin im Bereich IT-Support und IT-Administration in einer Arztpraxis
 * 2022-2023: Studentische Hilfskraft für Programmierungs Tutoriern an der Universität Paderborn
 * 2023: Studentische Hilfskraft für die Datenstrukturen und Algorithmen Tutoriern an der Universität Paderborn
 
