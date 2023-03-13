@@ -4,7 +4,7 @@ aliases: ["about-us", "about-hugo", "contact"]
 author: "Marlena Müller"
 ---
 
-Hallo, mein Name ist Marlena (sie/er), und ich bin eine Informatik-Studentin, die gerade an der Universität Paderborn studiert. Neben meinem Studium engagiere ich mich aktiv in der Fachschaft, wo ich mit anderen Studenten zusammenarbeite, um die akademischen und sozialen Erfahrungen meiner Kommilitonen zu verbessern.
+Hallo, mein Name ist Marlena (sie/ihr), und ich bin eine Informatik-Studentin, die gerade an der Universität Paderborn studiert. Neben meinem Studium engagiere ich mich aktiv in der Fachschaft, wo ich mit anderen Studenten zusammenarbeite, um die akademischen und sozialen Erfahrungen meiner Kommilitonen zu verbessern.
 
 Eine meiner größten Leidenschaften im Bereich der Informatik ist die theoretische Informatik. Ich finde es unglaublich faszinierend, die mathematischen Grundlagen und theoretischen Prinzipien zu erforschen, die der Informatik zugrunde liegen, und ich liebe es, etwas über die neuesten Fortschritte und Durchbrüche in diesem Bereich zu erfahren.
 
