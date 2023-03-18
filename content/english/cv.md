@@ -19,7 +19,7 @@ author: "Marlena Müller"
 
 * Java, Python and C Programming
 * advanced LaTeX type setting
-* Linux (Debian, Ubuntu) and Bash scripting
+* Linux (Debian, Ubuntu, NixOS) and Bash scripting
 * GitLab CI and Github Actions
 * Fundamental knowledge of Hosting and Server administration
   

@@ -19,7 +19,7 @@ author: "Marlena Müller"
 
 * Java-, Python- und C-Programmierung
 * Fortgeschrittene LaTeX-Textsetzung
-* Linux (Debian, Ubuntu) und Bash-Skripting
+* Linux (Debian, Ubuntu, NixOS) und Bash-Skripting
 * GitLab CI und Github-Actions
 * Grundlegende Kenntnisse in Hosting und Serveradministration
   
