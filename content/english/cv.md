@@ -18,7 +18,7 @@ author: "Marlena Müller"
 ## Skills
 
 * Java, Python and C Programming
-* advanced LaTeX text setting
+* advanced LaTeX type setting
 * Linux (Debian, Ubuntu) and Bash scripting
 * GitLab CI and Github Actions
 * Fundamental knowledge of Hosting and Server administration
