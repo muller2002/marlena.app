@@ -1,14 +1,14 @@
 ---
 author: "Marlena Müller"
 title: "Open letter to the Senate of the University of Paderborn"
-date: 2023-04-05T00:00:00+01:00
+date: 2023-04-05T00:00:00+02:00
 description: "Translation of the Open Letter to the Senate of the University of Paderborn concerning the situation of trans people at the University of Paderborn"
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung",
 ]
 ---
 
-> Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-05-offener_brief_upb). If you are a native speaker of German, please consider reading the original post.
+> Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-05-offener_brief_upb). If you speak German, consider reading the German version
 
 
 Dear members of the Senate of the University of Paderborn,

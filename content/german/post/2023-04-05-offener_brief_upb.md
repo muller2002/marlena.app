@@ -1,7 +1,7 @@
 ---
 author: "Marlena Müller"
 title: "Offener Brief an den Senat der Uni Paderborn"
-date: 2023-04-05T00:00:00+01:00
+date: 2023-04-05T00:00:00+02:00
 description: "Offener Brief an den Senat der Uni Paderborn betreffend der Situation von trans Menschen an der Uni Paderborn"
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung",
