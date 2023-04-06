@@ -1,39 +1,43 @@
 ---
 author: "Marlena Müller"
-title: "[German] Offener Brief an den Senat der Uni Paderborn"
+title: "Open letter to the Senate of the University of Paderborn"
 date: 2023-04-05T00:00:00+01:00
-description: "[German] Offener Brief an den Senat der Uni Paderborn betreffend der Situation von trans Menschen an der Uni Paderborn"
+description: "Translation of the Open Letter to the Senate of the University of Paderborn concerning the situation of trans people at the University of Paderborn"
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung",
 ]
 ---
 
-Liebe Mitglieder des Senats der Universität Paderborn,
+> Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-05-offener_brief_upb). If you are a native speaker of German, please consider reading the original post.
 
-ich schreibe Ihnen diesen offenen Brief, um Sie auf die Situation von trans Menschen an der Uni Paderborn aufmerksam zu machen.
 
-Für mich als trans Person ist die Situation ohne rechtlich bindende Namensänderung äußerst schwierig.
+Dear members of the Senate of the University of Paderborn,
 
-Ich werde vor meinen Mitstudierenden zwangsgeoutet, wenn ich zB. Hausaufgaben abgeben muss, die häufig den Namen, der im System hinterlegt ist, enthalten müssen. Wenn ich mich dazu entscheide meinen Namen zu verwenden, führt das dazu, dass ich vor Tutoren und Dozenten geoutet werde, vor denen ich mich zum Teil nicht outen möchte, da ich Angst habe, dass sie mich diskriminieren könnten.
+I am writing this open letter to draw your attention to the situation of trans people at the University of Paderborn.
 
-Auch habe ich eine SHK Stelle inne, wo bei Korrekturen, die ich durchführen muss, der im System hinterlegte Name den Studierenden mitgeteilt wird. Dies füht dazu, dass ich auch hier geoutet werde, obwohl ich dies nicht möchte und ich mich damit sehr unwohl fühle.
+For me as a trans person, the situation is extremely difficult without a legally binding name change.
 
-Auch ist es mir unmöglich, Fragen in PANDA-Foren zu stellen, ohne vor meinen Kommilitonen geoutet zu werden, da auch dort der Name, der im System hinterlegt ist, angezeigt wird.
+I am forcibly outed in front of my fellow students when I have to hand in homework, for example, which often has to include the name that is stored in the system. If I choose to use my name, it results in me being outed in front of tutors and lecturers, some of whom I don't want to come out to because I'm afraid they might discriminate against me.
 
-Diese Situationen sind sehr belastend für mich und führen dazu, dass ich mich nicht wohl fühle, wenn ich an der Uni bin oder wenn ich Hausaufgaben machen muss. Dies ist eine starke Einschränkung meiner Lebensqualität, die eigenlich nicht an einem Ort wie der Universität akzeptiert werden kann.
+Also, I hold a SHK position where when I have to do corrections, the name stored in the system is shared with the students. This leads to me being outed here as well, even though I don't want to be and I am very uncomfortable with it.
 
-Ich fordere Sie deshalb auf, an einer Lösung zu arbeiten, die es mir und anderen trans Studierenden ermöglicht, ohne Angst vor Diskriminierung und ohne Angst davor, geoutet werden, an der Uni Paderborn zu studieren und zu arbeiten.
+It is also impossible for me to ask questions in PANDA forums without being outed in front of my fellow students, since the name stored in the system is also displayed there.
 
-Meiner Meinung nach gibt es zwei Möglichkeiten, die Situation zu verbessern:
+These situations are very stressful for me and make me feel uncomfortable when I am at the university or when I have to do homework. This is a severe restriction on my quality of life, which is intrinsically unacceptable in a place like the university.
 
-1.) Die Möglichkeit, den Namen, der im System hinterlegt ist, zu ändern, ohne dass dafür ein Gerichtsbeschluss notwendig ist. Dies würde es mir ermöglichen, meinen Namen zu ändern, ohne dass dem ein langer und emotional belastender Gerichtsprozess vorangeht. Nach Rechtsauffassung der Antidiskriminierungsstelle des Bundes ist hierfür eine Namensänderung nach TSG nicht notwendig (vgl. [1]).
+I therefore ask you to work on a solution that will allow me and other trans students to study and work at the University of Paderborn without fear of discrimination and without fear of being outed.
 
-2.) Die Möglichkeit, den Namen, der in PANDA, PAUL und anderen Systemen angezeigt wird, zu ändern, ohne dass dafür ein Gerichtsbeschluss notwendig ist, jedoch der Name auf Abschlusszeugnissen und anderen Dokumenten, die von der Uni ausgestellt werden, weiterhin der rechtlich bindende Name ist.
+In my opinion, there are two ways to improve the situation:
 
-Mit freundlichen Grüßen
+1.) The possibility to change the name that is stored in the system without the need for a court order. This would allow me to change my name without it being preceded by a long and emotionally draining court process. According to the legal opinion of the Federal Anti-Discrimination Agency, a name change according to the TSG is not necessary for this (see [1]).
+
+2.) The possibility to change the name displayed in PANDA, PAUL and other systems without the need for a court order, but the name on degree certificates and other documents issued by the university continues to be the legally binding name.
+
+Yours sincerely
+
 Marlena Müller
 
-Bei dieser E-Mail handelt es sich um einen offenen Brief, der unter [https://marlena.app/de/post/2023-04-05-offener_brief_upb](https://marlena.app/de/post/2023-04-05-offener_brief_upb) veröffentlicht wurde. Ich bin damit einverstanden, dass diese E-Mail weitergeleitet und/oder ohne Veränderung veröffentlicht wird.
+This e-mail is an open letter published at [https://marlena.app/de/post/2023-04-05-offener_brief_upb](https://marlena.app/de/post/2023-04-05-offener_brief_upb). I agree that this email may be forwarded and/or published without modification.
 
 Links:  
 [1]: [https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/Literatur/Literatur_Bildung/Name_Trans_Studierende.html](https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/Literatur/Literatur_Bildung/Name_Trans_Studierende.html)

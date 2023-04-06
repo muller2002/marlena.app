@@ -31,6 +31,7 @@ Meiner Meinung nach gibt es zwei Möglichkeiten, die Situation zu verbessern:
 2.) Die Möglichkeit, den Namen, der in PANDA, PAUL und anderen Systemen angezeigt wird, zu ändern, ohne dass dafür ein Gerichtsbeschluss notwendig ist, jedoch der Name auf Abschlusszeugnissen und anderen Dokumenten, die von der Uni ausgestellt werden, weiterhin der rechtlich bindende Name ist.
 
 Mit freundlichen Grüßen
+
 Marlena Müller
 
 Bei dieser E-Mail handelt es sich um einen offenen Brief, der unter [https://marlena.app/de/post/2023-04-05-offener_brief_upb](https://marlena.app/de/post/2023-04-05-offener_brief_upb) veröffentlicht wurde. Ich bin damit einverstanden, dass diese E-Mail weitergeleitet und/oder ohne Veränderung veröffentlicht wird.
