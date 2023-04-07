@@ -35,7 +35,7 @@ If the name has already been changed in IRB-GitLab before setting up the service
 
 Here the name can be changed in the settings under "Personal details".
 
-## Roundcube Webmail ([mail.uni-paderborn.de](https://mail.uni-paderborn.de))
+## Roundcube Webmail ([mail.uni-paderborn.de](https://roundcube.uni-paderborn.de))
 
 Roundcube uses by default only the IMT username as sender name. This can be changed in the settings under "Identities".
 
