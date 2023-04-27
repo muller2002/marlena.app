@@ -5,7 +5,7 @@ author: "Marlena Müller"
 
 ## Education
 
-* Abitur (equivalent to A level), specialication in Mathemtics and Computer Science, 2021
+* Abitur (equivalent to A level), specialization in Mathematics and Computer Science, 2021
 * Paderborn University, Computer Science, 2021-today (expected graduation 2025)
 * Paderborn University, Mathematics, 2023-today
 
@@ -26,4 +26,4 @@ author: "Marlena Müller"
 ## Voluntary activities
 
 * Active member of the Paderborn University's student council for computer science and mathematics
-* Active member of german civil protection
+* 2019-2023: member of german civil protection

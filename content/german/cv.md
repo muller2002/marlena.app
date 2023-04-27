@@ -26,4 +26,4 @@ author: "Marlena Müller"
 ## Ehrenamtliche Tätigkeiten
 
 * Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
-* Aktives Mitglied im Deutschen Katastrophenschutz
+* 2019-2023: Mitglied im Deutschen Katastrophenschutz
