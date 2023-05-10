@@ -19,7 +19,7 @@ Als erstes muss bei der DGTI für 19,90€ ein [Ergänzungsausweis](https://dgti
 Danach kann dann in Paul (unter Studium > Anträge > Änderung des Geschlechts) der Geschlechtseintrag und der Name geändert werden. Hier muss der Name, der auf dem Ergänzungsausweis steht eingetragen werden. Die Bearbeitung dieses Antrags ging sehr schnell. Bei mir hat es nur einen Tag gedauert, jedoch wird man nicht über die Bewilligung informiert. Man merkt es jedoch, wenn in Paul der Korrekte Name in der Willkommensnachricht steht.
 
 Nachdem der Antrag bewilligt wurde, kann es noch ein paar Tage dauern, bis der Name in fast allen Systemen geändert wurde. Bei mir hat es etwa 2 Tage gedauert.
-Jedoch wird nicht in allen Systemen der Name automatisch übernommen. Mir sind dabei aufgefallen: [Panda](panda.uni-paderborn.de), [Komo](komo.uni-paderborn.de), [Sciebo](uni-paderborn.sciebo.de).
+Jedoch wird nicht in allen Systemen der Name automatisch übernommen. Mir sind dabei aufgefallen: [Panda](https://panda.uni-paderborn.de), [Komo](https://komo.uni-paderborn.de), [Sciebo](https://uni-paderborn.sciebo.de).
 
 ## Die Probleme
 
@@ -45,7 +45,7 @@ Bei Sciebo wurde der Name ebenfalls nicht automatisch geändert. Dies kann man s
 
 ### Semesterticket
 
-Das Semesterticket muss neu beantragt werden. Dies lohnt sich erst, wenn im [Serviceportal](sp.upb.de) der korrekte Name angezeigt wird. Dies dauert in der Regel einen Tag.
+Das Semesterticket muss neu beantragt werden. Dies lohnt sich erst, wenn im [Serviceportal](https://sp.upb.de) der korrekte Name angezeigt wird. Dies dauert in der Regel einen Tag.
 
 ## Fazit
 

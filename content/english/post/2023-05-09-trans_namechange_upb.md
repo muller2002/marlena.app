@@ -21,7 +21,7 @@ The first thing to do is to apply to DGTI for a [supplementary card](https://dgt
 After that, the gender entry and the name can then be changed in Paul (under Study > Study Organisation > Änderung des Geschlechts). Here, the name that is on the supplementary ID card must be entered. The processing of this application was very fast. In my case it took only one day, but you are not informed about the approval. However, one notices it when in Paul the correct name is written in the welcome message.
 
 After the application has been approved, it can take a few more days until the name has been changed in almost all systems. For me it took about 2 days.
-However, not all systems automatically apply the name. I have noticed: [Panda](panda.uni-paderborn.de), [Komo](komo.uni-paderborn.de), [Sciebo](uni-paderborn.sciebo.de).
+However, not all systems automatically apply the name. I have noticed: [Panda](https://panda.uni-paderborn.de), [Komo](https://komo.uni-paderborn.de), [Sciebo](https://uni-paderborn.sciebo.de).
 
 ## The problems
 
@@ -47,7 +47,7 @@ For Sciebo, the name was also not changed automatically. You can do this yoursel
 
 ### Semester ticket
 
-The semester ticket must be applied for again. This is not worth doing until the [Serviceportal](sp.upb.de) shows the correct name, than you can . This usually takes one day.
+The semester ticket must be applied for again. This is not worth doing until the [Serviceportal](https://sp.upb.de) shows the correct name, than you can . This usually takes one day.
 
 ## Conclusion
 
