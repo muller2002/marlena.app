@@ -8,6 +8,10 @@ tags: [
 ]
 ---
 
+> **Update** (2023-05-13):  
+> Die Situation an der Uni Paderborn hat sich verändert.
+> Die Informationen in diesem Post sind größtenteils nicht mehr aktuell.
+
 An der Uni Paderborn laufen viele Dienste über den IMT-Account. Was sich für vieles als Vorteil erweist, da es ein zentralen Login für fast alle Dienste gibt, ist es für manche Studierende ein Problem.
 Trans Studierende müssen sich oft mit Deadnaming auseinandersetzen, da der Name, der im System hinterlegt ist, auch in PANDA, PAUL und anderen Systemen angezeigt wird. 
 Dies führt dazu, dass sie vor ihren Kommilitonen und Dozenten geoutet werden, wenn Sie diese Dienste nutzen müssen.

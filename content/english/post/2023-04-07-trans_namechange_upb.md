@@ -9,7 +9,13 @@ tags: [
 ---
 
 > Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-07-trans_namechange_upb). If you speak German, consider reading the German version
-> 
+>
+
+> **Update** (2023-05-13):  
+> The situation at University of Paderborn has changed since I wrote this post.
+> The informations in this post are no longer up to date.
+
+
 At the University of Paderborn many services run via the IMT account. Which proves to be an advantage for many things, as there is a central login for almost all services, it is a problem for some students.
 Trans students often have to deal with deadnaming, since the name that is stored in the system is also displayed in PANDA, PAUL and other systems. 
 This causes them to be outed to their fellow students and faculty when you need to use these services.
