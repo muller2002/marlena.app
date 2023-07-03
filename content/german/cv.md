@@ -25,5 +25,6 @@ author: "Marlena Müller"
   
 ## Ehrenamtliche Tätigkeiten
 
-* Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
+* Seit 2023: Gründungsmitglied und Vorstandsvorsitzende der "Gesellschaft für Informatik Hochschulgruppe Paderborn"
+* Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
 * 2019-2023: Mitglied im Deutschen Katastrophenschutz

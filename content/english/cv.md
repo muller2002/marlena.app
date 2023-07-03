@@ -25,5 +25,6 @@ author: "Marlena Müller"
   
 ## Voluntary activities
 
-* Active member of the Paderborn University's student council for computer science and mathematics
+* Since 2023: Founding member and chairwoman of the "Gesellschaft für Informatik Hochschulgruppe Paderborn" (German Informatics Society Student Group Paderborn)
+* Since 2021: Active member of the Paderborn University's student council for computer science and mathematics
 * 2019-2023: member of german civil protection
