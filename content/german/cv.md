@@ -27,4 +27,9 @@ author: "Marlena Müller"
 
 * Seit 2023: Gründungsmitglied und Vorstandsvorsitzende der "Gesellschaft für Informatik Hochschulgruppe Paderborn"
 * Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
+  * 2022: Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
+  * 2023: Vorsitz der Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
 * 2019-2023: Mitglied im Deutschen Katastrophenschutz
+  * Mitglied des DRK Herford-Stadt
+  * Einsatz in den Bereichen Sanitätsdienst, Betreuungsdienst und Technik und Sicherheit
+  * Einsatzleitung bei Sanitätsdiensten

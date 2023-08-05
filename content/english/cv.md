@@ -27,4 +27,10 @@ author: "Marlena Müller"
 
 * Since 2023: Founding member and chairwoman of the "Gesellschaft für Informatik Hochschulgruppe Paderborn" (German Informatics Society Student Group Paderborn)
 * Since 2021: Active member of the Paderborn University's student council for computer science and mathematics
+  * 2022: Election management of the student elections of the Faculty of Electrical Engineering, Computer Science and Mathematics.
+  * 2023: Chair of the Student Election Committee of the Faculty of Electrical Engineering, Computer Science and Mathematics
 * 2019-2023: member of german civil protection
+  * Member of the DRK (german red cross) Herford-Stadt
+  * Deployment in the areas of ambulance service, support service and technology and safety
+  * Head of operations at first-aid services
+
