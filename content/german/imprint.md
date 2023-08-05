@@ -1,15 +1,13 @@
 ---
-title: Imprint
-description: Imprint
+title: Impressum
+description: Impressum der Webseite von Marlena Müller
 ---
-
-## Impressum
 
 Marlena Müller  
 Peter-Hille-Weg 11  
 App. F08-06  
 33098 Paderborn  
-Germany  
+Deutschland  
 Telefon: 015154887796  
 E-Mail: impressum@marlena.app  
 

@@ -3,8 +3,6 @@ title: Imprint
 description: Imprint
 ---
 
-## Impressum
-
 Marlena Müller  
 Peter-Hille-Weg 11  
 App. F08-06  
