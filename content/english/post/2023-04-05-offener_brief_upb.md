@@ -6,6 +6,7 @@ description: "Translation of the Open Letter to the Senate of the University of 
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung",
 ]
+summary: "open letter to the Senate of the University of Paderborn regarding the situation of Trans people at the University of Paderborn"
 ---
 
 > Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-05-offener_brief_upb). If you speak German, consider reading the German version

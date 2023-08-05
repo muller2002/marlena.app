@@ -6,6 +6,7 @@ description: "How to change the first name at the University of Paderborn and wh
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung", "IMT", "DGTI",
 ]
+summary: "How to change the first name at the University of Paderborn, what problems occur and how to solve them"
 ---
 
 > Please note that this is a translation of the original German post found [here]({{< relref path="2023-05-09-trans_namechange_upb" lang="de" >}}). If you speak German, consider reading the German version

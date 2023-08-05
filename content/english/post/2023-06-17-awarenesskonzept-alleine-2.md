@@ -6,6 +6,7 @@ description: "Wieso ein Awareness-Konzept (alleine) nicht funktioniert - Teil 2"
 tags: [
     "Awareness", "trans", "Diskriminierung", "Awarenesskonzept", "Awareness-Konzept", "ASTA Sommerfestival", "Uni Paderborn",
 ]
+summary: "Second post on the Awareness concept of the AStA Paderborn and its implementation at the AStA Sommerfestival."
 ---
 > This post is written in German, because I am not sure if I can express myself well enough in English.
 
@@ -29,7 +30,7 @@ Auch wurde auf dem Festival eine Safer Space Bühne für LGBTQ, FLINTA+ und BIPo
 Aufgrund meiner Erlebnisse auf dem AStA Ballrave, habe ich im vorfeld des Festivals mit der zuständigen Person des Awareness-Teams gesprochen. Ich habe ihr von meinen Erlebnissen auf dem AStA Ballrave erzählt und sie hat mir versichert, dass das Awareness-Team auf dem Festival präsent sein wird und dass sie sich darum kümmern w$$ird, dass das Awareness-Konzept umgesetzt wird.
 
 Leider kam es wieder zu der exakt gleichen Situation wie auf dem AStA Ballrave. Menschen wurden aufgrund ihres Aussehens von der Toilette verwiesen.
-Mir ist das während des Festivals selbst nicht passiert, da ich eine der vielen Genderneutralen Toiletten genutzt habe. 
+Mir ist das während des Festivals selbst nicht passiert, da ich eine der vielen Genderneutralen Toiletten genutzt habe.
 Mir wurde jedoch von mehreren Personen berichtet, dass sie aufgrund ihres Aussehens von der Toilette verwiesen wurden oder sie dies beobachtet haben.
 
 Das kann so nicht sein. Das Awareness-Konzept des AStA Sommerfestivals ist nicht viel wert, wenn es nicht umgesetzt wird.

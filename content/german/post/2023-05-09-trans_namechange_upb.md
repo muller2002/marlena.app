@@ -6,6 +6,7 @@ description: "Wie man den Vornamen an der Uni Paderborn ändert und welche Probl
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung", "IMT", "DGTI",
 ]
+summary: "Wie man den Vornamen an der Universität Paderborn ändert, welche Probleme dabei auftreten und wie man sie lösen kann"
 ---
 
 Seit kurzem Erlaubt es die Uni Paderborn den Vornamen zu ändern, ohne eine rechtliche Namensänderung durchgeführt zu haben. Dies ist ein großer Schritt in die richtige Richtung.

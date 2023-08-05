@@ -6,6 +6,7 @@ description: "Wie man an der Uni Paderborn weniger Deadnaming erleben muss"
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung", "IMT",
 ]
+summary: "Leitfaden für weniger Deadnaming an der Universität Paderborn ohne Namensänderung"
 ---
 
 > **Update** (2023-05-13):  

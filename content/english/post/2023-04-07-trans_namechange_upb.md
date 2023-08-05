@@ -6,6 +6,7 @@ description: "How to experience less deadnaming at the University of Paderborn"
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung", "IMT", 
 ]
+summary: "Guide on how to experience less deadnaming at the University of Paderborn without a legal name change"
 ---
 
 > Please note that this is a translation of the original German post found [here](https://marlena.app/de/post/2023-04-07-trans_namechange_upb). If you speak German, consider reading the German version

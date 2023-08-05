@@ -6,6 +6,7 @@ description: "Offener Brief an den Senat der Uni Paderborn betreffend der Situat
 tags: [
     "Uni Paderborn", "trans", "selbstbestimmung", "Namensänderung",
 ]
+summary: "Offener Brief an den Senat der Universität Paderborn zur Situation von Trans-Menschen an der Universität Paderborn"
 ---
 
 Liebe Mitglieder des Senats der Universität Paderborn,

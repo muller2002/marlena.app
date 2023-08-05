@@ -6,6 +6,7 @@ description: "Wieso ein Awareness-Konzept (alleine) nicht funktioniert - Teil 2"
 tags: [
     "Awareness", "trans", "Diskriminierung", "Awarenesskonzept", "Awareness-Konzept", "ASTA Sommerfestival", "Uni Paderborn",
 ]
+summary: "Zweiter Beitrag zum Awareness-Konzept des AStA Paderborn und dessen Umsetzung beim AStA-Sommerfest.
 ---
 > **Triggerwarnung**: In diesem Text geht es um Diskriminierung, Sexualisierte Gewalt und Transfeindlichkeit.
 

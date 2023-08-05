@@ -6,6 +6,7 @@ description: "Wieso ein Awareness-Konzept (alleine) nicht funktioniert"
 tags: [
     "Awareness", "trans", "Diskriminierung", "Awarenesskonzept", "Awareness-Konzept", "ASTA Ballroom", "Uni Paderborn",
 ]
+summary: "Warum ein Awareness-Konzept (allein) nicht funktioniert - Erfahrungen beim AStA Ballroom Rave"
 ---
 > **Triggerwarnung**: In diesem Text geht es um Diskriminierung und Transfeindlichkeit.
 
