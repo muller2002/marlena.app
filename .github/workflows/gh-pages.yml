@@ -79,8 +79,8 @@ jobs:
         uses: actions/deploy-pages@v1
 
   deploy2:
-      environment:
-        name: netcup webspace
+    environment:
+      name: netcup webspace
     runs-on: ubuntu-latest
     needs: build
     steps:
