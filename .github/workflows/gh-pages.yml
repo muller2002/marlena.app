@@ -90,6 +90,6 @@ jobs:
           host: ${{ secrets.WEBSERVER_HOST }}
           username: ${{ secrets.WEBSERVER_USER }}
           password: ${{ secrets.WEBSERVER_PASS }}
-          source: ./public
+          source: ./public/*
           target: ${{ secrets.WEBSERVER_TARGET }}
           args: -r
