@@ -14,6 +14,7 @@ author: "Marlena Müller"
 * seit 2021: Werksstudentin im Bereich IT-Support und IT-Administration in einer Arztpraxis
 * 2022-2023: Studentische Hilfskraft für Programmierungs Tutorien an der Universität Paderborn
 * 2023: Studentische Hilfskraft für die Datenstrukturen und Algorithmen Tutorien an der Universität Paderborn
+* 2023-2024: Studentische Hilfskraft für die Berechenbarkeit und Komplexität Tutorien an der Universität Paderborn
 
 ## Kenntnisse
 
