@@ -25,6 +25,7 @@ author: "Marlena Müller"
   
 ## Voluntary activities
 
+* Since 2023: Member of the Ethics Committee of the University of Paderborn
 * Since 2023: Founding member and chairwoman of the "Gesellschaft für Informatik Hochschulgruppe Paderborn" (German Informatics Society Student Group Paderborn)
 * Since 2021: Active member of the Paderborn University's student council for computer science and mathematics
   * 2022: Election management of the student elections of the Faculty of Electrical Engineering, Computer Science and Mathematics.

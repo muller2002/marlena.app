@@ -25,6 +25,7 @@ author: "Marlena Müller"
   
 ## Ehrenamtliche Tätigkeiten
 
+* Seit 2023: Mitglied der Ethikkommission der Universität Paderborn
 * Seit 2023: Gründungsmitglied und Vorstandsvorsitzende der "Gesellschaft für Informatik Hochschulgruppe Paderborn"
 * Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
   * 2022: Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
