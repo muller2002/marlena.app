@@ -6,15 +6,16 @@ author: "Marlena Müller"
 ## Education
 
 * Abitur (equivalent to A level), specialization in Mathematics and Computer Science, 2021
-* Paderborn University, Computer Science, 2021-today (expected graduation 2025)
-* Paderborn University, Mathematics, 2023-today
+* Paderborn University, Bachelor Computer Science, 2021-today (expected graduation 2025)
+* Paderborn University, Bachelor Mathematics, 2023-today
 
 ## Work experience
 
 * since 2021: Working student in the field of IT support and IT administration in a medical office
-* 2022-2023: Student Assistant for "Programming" tutorials at the Paderborn University
-* 2023: Student Assistant for "Data structures and algorithms" tutorials at the Paderborn University
-* 2023-2024: Student Assistant for "Computability and Complexity" tutorials at the Paderborn University
+* since 2022L Student Assistant at the Paderborn University for tutorials in:
+  * Programming (1 semester)
+  * Data Structures and Algorithms (1 semester)
+  * Computability and Complexity (1 semester)
 
 ## Skills
 
@@ -31,8 +32,13 @@ author: "Marlena Müller"
 * Since 2021: Active member of the Paderborn University's student council for computer science and mathematics
   * 2022: Election management of the student elections of the Faculty of Electrical Engineering, Computer Science and Mathematics.
   * 2023: Chair of the Student Election Committee of the Faculty of Electrical Engineering, Computer Science and Mathematics
+  * since 2023: Member of the "Rechnerbetreung Fachschaft Mathe/Info" (IT support of the student council for computer science and mathematics)
+  * 2023/2024: Member of the Mathematics Institutes Board of Directors
+  * 2023/2024: Member of the "Qualitätsverbesserungskomission EIM" (Quality Improvement Commission of the Faculty of Electrical Engineering, Computer Science and Mathematics)
+  * 2023/2024: Member of the examination board for mathematics.
+  * 2023/2024: Member of the study contents commission for mathematics and computer science
 * 2019-2023: member of german civil protection
-  * Member of the DRK (german red cross) Herford-Stadt
+  * Member of the DRK (german red cross)
   * Deployment in the areas of ambulance service, support service and technology and safety
   * Head of operations at first-aid services
 

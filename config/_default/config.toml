@@ -44,6 +44,19 @@ localizedDates = false
   name = 'tags'
   weight = 80
 
+[languages]
+    [en]
+        title = "Marlena Müller"
+        weight = 1
+        LanguageName = "EN"
+        contentDir = "content/english"
+
+    [de]
+        title = "Marlena Müller"
+        weight = 2
+        LanguageName = "DE"
+        contentDir = "content/german"
+        description = "(sie/ihr) - Informatik Studentin"
 
 
  

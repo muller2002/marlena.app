@@ -6,15 +6,16 @@ author: "Marlena Müller"
 ## Ausbildung
 
 * Abitur, Leistungskurse Mathematik und Informatik, 2021
-* Universität Paderborn, Informatik, 2021-heute (voraussichtlicher Abschluss 2025)
-* Universität Paderborn, Mathematik, 2023-heute
+* Universität Paderborn, Bachelor Informatik, 2021-heute (voraussichtlicher Abschluss 2025)
+* Universität Paderborn, Bachelor Mathematik, 2023-heute
 
 ## Berufserfahrung
 
 * seit 2021: Werksstudentin im Bereich IT-Support und IT-Administration in einer Arztpraxis
-* 2022-2023: Studentische Hilfskraft für Programmierungs Tutorien an der Universität Paderborn
-* 2023: Studentische Hilfskraft für die Datenstrukturen und Algorithmen Tutorien an der Universität Paderborn
-* 2023-2024: Studentische Hilfskraft für die Berechenbarkeit und Komplexität Tutorien an der Universität Paderborn
+* seit 2022: Tutorin an der Universität Paderborn für Tutorien in:
+  * Programmieren (1 Semester)
+  * Datenstrukturen und Algorithmen (1 Semester)
+  * Berechenbarkeit und Komplexität (1 Semester)
 
 ## Kenntnisse
 
@@ -31,7 +32,12 @@ author: "Marlena Müller"
 * Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
   * 2022: Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
   * 2023: Vorsitz der Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
+  * seit 2023: Mitglied der "Rechnerbetreung Fachschaft Mathe/Info" (IT-Support der Fachschaft Informatik und Mathematik)
+  * Mitglied des Institutsvorstandes des Mathematikinstituts
+  * Mitglied der "Qualitätsverbesserungskomission EIM"
+  * Mitglied des Prüfungsausschusses für Mathematik
+  * Mitglied der Studieninhaltskommission für Mathematik und Informatik
 * 2019-2023: Mitglied im Deutschen Katastrophenschutz
-  * Mitglied des DRK Herford-Stadt
+  * Mitglied der Katastrophenschutzbereitschaft des DRK
   * Einsatz in den Bereichen Sanitätsdienst, Betreuungsdienst und Technik und Sicherheit
   * Einsatzleitung bei Sanitätsdiensten
