@@ -78,9 +78,9 @@ Uberspace advises against this for security reasons. If the websites/web applica
 
 You can also order stickers from Uberspace. I like stickers, one has already made it onto my laptop :D
 
-![Uberspace Sticker](/images/uberspace/brief.jpeg)
+![Various stickers with the Uberspace logo on a letter. The letter says in german: "Nice to have you with us! - N"](/images/uberspace/brief.jpeg)
 
-![Uberspace Sticker auf Laptop](/images/uberspace/laptop.jpeg)
+![Purple shiny Uberspace sticker on a laptop, around it some stickers in german language: FCK AFD, Technically questionable, 5 cats lying on top of each other in the colors of the trans flag, covered sticker on which it says ...colorful Paderborn, "Possible leakage of smoke from the device is normal and harmless"](/images/uberspace/laptop.jpeg)
 
 ## More
 

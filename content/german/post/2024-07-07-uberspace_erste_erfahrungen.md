@@ -78,9 +78,9 @@ Uberspace rät hiervon aus Sicherheitsgründen ab. Wenn die Webseiten/Webanwendu
 
 Man kann von Uberspace auch Sticker bestellen. Ich mag Sticker, einer hat es schon auf meinen Laptop geschafft :D
 
-![Uberspace Sticker](/images/uberspace/brief.jpeg)
+![Verschieden Sticker mit dem Logo von Uberspace, diese liegen auf einem Brief. In dem Brief steht: "Schön, dass Du bei uns bist! - N"](/images/uberspace/brief.jpeg)
 
-![Uberspace Sticker auf Laptop](/images/uberspace/laptop.jpeg)
+![Lila glänzender Uberspace Sticker auf einem Laptop, darum einige Sticker: FCK AFD, Technisch Fragwürdig, 5 Katzen die aufeinander Liegen in den Farben der trans Flagge, bedeckter Sticker auf dem steht ...buntes Paderborn,  "Mögliches Austreten von Rauch aus dem Gerät ist normal und unbedenklich"](/images/uberspace/laptop.jpeg)
 
 ## Weiteres
 
