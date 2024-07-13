@@ -14,7 +14,7 @@ author: "Marlena Müller"
 * seit 2021: Werksstudentin im Bereich IT-Support und IT-Administration in einer Arztpraxis
 * seit 2022: Tutorin an der Universität Paderborn für Tutorien in:
   * Programmieren (1 Semester)
-  * Datenstrukturen und Algorithmen (1 Semester)
+  * Datenstrukturen und Algorithmen (2 Semester)
   * Berechenbarkeit und Komplexität (1 Semester)
 
 ## Kenntnisse
@@ -27,6 +27,7 @@ author: "Marlena Müller"
   
 ## Ehrenamtliche Tätigkeiten
 
+* Seit 2024: Gast im GI-Präsidium als Vertreterin der Konferenz der Informatikfachschaften
 * Seit 2023: Mitglied der Ethikkommission der Universität Paderborn
 * Seit 2023: Gründungsmitglied und Vorstandsvorsitzende der "Gesellschaft für Informatik Hochschulgruppe Paderborn"
 * Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn

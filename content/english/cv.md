@@ -14,7 +14,7 @@ author: "Marlena Müller"
 * since 2021: Working student in the field of IT support and IT administration in a medical office
 * since 2022L Student Assistant at the Paderborn University for tutorials in:
   * Programming (1 semester)
-  * Data Structures and Algorithms (1 semester)
+  * Data Structures and Algorithms (2 semesters)
   * Computability and Complexity (1 semester)
 
 ## Skills
@@ -27,6 +27,7 @@ author: "Marlena Müller"
   
 ## Voluntary activities
 
+* Since 2024: Guest in the GI board of directors as a representative of the Conference of Computer Science Student Councils
 * Since 2023: Member of the Ethics Committee of the University of Paderborn
 * Since 2023: Founding member and chairwoman of the "Gesellschaft für Informatik Hochschulgruppe Paderborn" (German Informatics Society Student Group Paderborn)
 * Since 2021: Active member of the Paderborn University's student council for computer science and mathematics
