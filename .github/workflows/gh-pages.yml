@@ -61,35 +61,26 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Save build artifacts
+        uses: actions/upload-artifact@v4
         with:
-          path: ./public
+          name: website
+          path: public
 
-  # Deployment job
+  #deploy job
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
-
-  deploy2:
-    environment:
-      name: netcup webspace
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to Webspace via scp
-        uses: appleboy/scp-action@v0.1.4
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
         with:
-          host: ${{ secrets.WEBSERVER_HOST }}
-          username: ${{ secrets.WEBSERVER_USER }}
-          password: ${{ secrets.WEBSERVER_PASS }}
-          source: ./public/*
-          target: ${{ secrets.WEBSERVER_TARGET }}
-          args: -r
+          name: website
+          path: public
+      - name: Deploy
+        run: |
+          install -m 600 -D /dev/null ~/.ssh/id_rsa
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_KNOWN_HOST }}" > ~/.ssh/known_hosts
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_ed25519" public/ ${{ vars.SSH_USERNAME }}@${{ vars.SSH_HOST }}:/
