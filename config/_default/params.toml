@@ -47,23 +47,28 @@ url = "https://github.com/muller2002/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
-title = "instagram"
+title = "Instagram"
 url = "https://www.instagram.com/marlenalynnann"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
-title = "e-mail"
+title = "Mail"
 url = "mailto:me@marlena.app"
-
-[[socialIcons]]
-icon = "fa fa-fw fa-graduation-cap"
-title = "University Paderborn"
-url = "https://www.uni-paderborn.de/"
 
 [[socialIcons]]
 icon = "fab fa-fw fa-discord"
 title = "Discord"
 url = "https://discordapp.com/users/Müller#7366"
+
+[[socialIcons]]
+icon = "fab fa-fw fa-mastodon"
+title = "Mastodon"
+url = "https://toot.kif.rocks/@marlena"
+
+[[socialIcons]]
+icon = "fa fa-fw fa-graduation-cap"
+title = "University Paderborn"
+url = "https://www.uni-paderborn.de/"
 
 [mermaid]
 # enable = true
