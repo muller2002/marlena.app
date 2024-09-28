@@ -16,6 +16,7 @@ author: "Marlena Müller"
   * Programmieren (1 Semester)
   * Datenstrukturen und Algorithmen (2 Semester)
   * Berechenbarkeit und Komplexität (1 Semester)
+  * Einführung in die Kryptographie (1 Semester)
 
 ## Kenntnisse
 
@@ -27,17 +28,20 @@ author: "Marlena Müller"
   
 ## Ehrenamtliche Tätigkeiten
 
+* Seit 2024: Mitglied des Studierendenparlaments der Universität Paderborn
+  * Seit 2024: Vorsitzende des Haushaltsausschusses
 * Seit 2024: Gast im GI-Präsidium als Vertreterin der Konferenz der Informatikfachschaften
-* Seit 2023: Mitglied der Ethikkommission der Universität Paderborn
 * Seit 2023: Gründungsmitglied und Vorstandsvorsitzende der "Gesellschaft für Informatik Hochschulgruppe Paderborn"
+* 2023-2024: Mitglied der Ethikkommission der Universität Paderborn
 * Seit 2021: Aktives Mitglied in der Fachschaft Informatik und Mathematik der Universität Paderborn
-  * 2022: Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
+  * 2022: Mitglied Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
   * 2023: Vorsitz der Wahlleitung der studentischen Wahlen der Fakultät für Elektrotechnik, Informatik und Mathematik
   * seit 2023: Mitglied der "Rechnerbetreung Fachschaft Mathe/Info" (IT-Support der Fachschaft Informatik und Mathematik)
-  * Mitglied des Institutsvorstandes des Mathematikinstituts
-  * Mitglied der "Qualitätsverbesserungskomission EIM"
-  * Mitglied des Prüfungsausschusses für Mathematik
-  * Mitglied der Studieninhaltskommission für Mathematik und Informatik
+  * seit 2023: Mitglied des Institutsvorstandes des Mathematikinstituts
+  * seit 2023: Mitglied der "Qualitätsverbesserungskomission EIM"
+  * seit 2023: Mitglied des Prüfungsausschusses für Mathematik
+  * seit 2023: Mitglied der Studieninhaltskommission für Mathematik und Informatik
+  * seit 2024: Mitglied des Fakultätsrates der Fakultät für Elektrotechnik, Informatik und Mathematik
 * 2019-2023: Mitglied im Deutschen Katastrophenschutz
   * Mitglied der Katastrophenschutzbereitschaft des DRK
   * Einsatz in den Bereichen Sanitätsdienst, Betreuungsdienst und Technik und Sicherheit
